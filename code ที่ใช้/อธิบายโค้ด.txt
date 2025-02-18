@@ -1,0 +1,7 @@
+โค้ดที่ใช้ในระบบฟังก์ชันต่างๆ
+
+the_moon.php --> คือ โค้ดที่ใช้ในการนับจำนวนคนในกิจกรรมนั้น (จำนวนคนใน database ใน event นั้นๆ)
+
+insert_the_moon.php --> คือ โค้ดที่ใช้ในการเเพิ่ม username ใน database ของ event นั้นๆ
+
+Delete_the_select.php --> คือ โค้ดที่ใช้ในการลบ username จาก database ของ event นั้นๆ ที่ login ในตอนนั้น ไว้ใช้ในส่วนของการออกจากกลุ่ม แชท
